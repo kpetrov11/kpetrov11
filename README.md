@@ -10,8 +10,9 @@
 - Python 🐍
 - C/C++ 💻
 - Java ☕
-- SQL <a href="https://emoji.gg/emoji/Database"><img src="https://emoji.gg/assets/emoji/Database.png" width="64px" height="64px" alt="Database"></a>
-- HTML, CSS, Flask 🌐
+- SQL 💾
+- HTML, Flask 🌎
+- CSS 🖊
 
 
 [![Kris' GitHub stats](https://github-readme-stats.vercel.app/api?username=krispetrov)](https://github.com/anuraghazra/github-readme-stats)
