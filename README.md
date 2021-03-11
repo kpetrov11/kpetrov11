@@ -15,5 +15,5 @@
 - CSS 🖊
 
 
-![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=krispetrov&show_icons=true&theme=dracula)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krispetrov&layout=compact&theme=dracula)
+![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=krispetrov&show_icons=true&theme=dark)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krispetrov&layout=compact&theme=dark)
