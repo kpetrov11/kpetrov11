@@ -15,4 +15,6 @@
 - CSS 🖊
 
 
-[![Kris' GitHub stats](https://github-readme-stats.vercel.app/api?username=krispetrov)](https://github.com/anuraghazra/github-readme-stats)
+[![Kris' GitHub stats](https://github-readme-stats.vercel.app/api?username=krispetrov)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krispetrov)]
+
