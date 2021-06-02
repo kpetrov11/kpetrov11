@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning on how to become a better version of myself
 - 💬 Ask me about anything you're interested in
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/kris-petrov/)
-- ⚡ Fun fact: I am quarter russian
+- ⚡ Fun fact: I love running
 
 ### Skills and Experience
 - Python 🐍
