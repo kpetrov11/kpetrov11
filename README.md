@@ -1,19 +1,16 @@
-### Hey, it's me 👋, Kris
+### Hi there 👋, Petrov, Kristiyan Petrov
+#### Working, Studying and Developing
+![Working, Studying and Developing](https://i.pinimg.com/originals/b6/d9/e4/b6d9e4bb3642d036a207f7a83b2f9128.jpg)
 
-- 🔭 I’m currently working on Arduino based [DJ Controller](https://github.com/krispetrov/dj-controller)
-- 🌱 I’m currently learning on how to become a better version of myself
-- 💬 Ask me about anything you're interested in
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/kris-petrov/)
-- ⚡ Fun fact: I love running
+Hey, I'm Kris. I am currently studying at a high school, specialized in system programming. I studied English for around 10 years and got my C2 Certificate from Cambridge in 2020. I love coding and as a hobby I do sports or at least try to.
 
-### Skills and Experience
-- Python 🐍
-- C/C++ 💻
-- Java ☕
-- SQL 💾
-- HTML, Flask 🌎
-- CSS 🖊
+Skills: Python 🐍 ; C/C++ 💻 ; Java ☕ ; SQL 💾 ; HTML, Flask 🌎 ; CSS 🖊
+
+- 🔭 I’m currently working on Arduino based [DJ Controller](https://github.com/krispetrov/dj-controller) 
+- 🌱 I’m currently learning on how to become a better version of myself 
+- 💬 Ask me about anything you're interested in 
 
 
-![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=krispetrov&show_icons=true&theme=calm)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krispetrov&layout=compact&theme=calm)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/krispetrov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kris-petrov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kristiyanpetrow/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yanpetrow)  
+
+![Profile views](https://gpvc.arturio.dev/krispetrov)  
