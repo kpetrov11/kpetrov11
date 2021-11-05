@@ -7,7 +7,7 @@
 
 ![Working, Studying and Developing](https://i.pinimg.com/originals/b6/d9/e4/b6d9e4bb3642d036a207f7a83b2f9128.jpg)
 
-Hey, I'm Kris. I am currently studying at a high school, specialized in system programming and working part-time as a Cyber Security Specialist at [SoCyber](so-cyber.com). I studied English for around 10 years and got my C2 Certificate from Cambridge in 2020. I love coding and as a hobby I do sports or at least try to.
+Hey, I'm Kris. I am currently studying at a high school, specialized in system programming and working part-time as a Cyber Security Specialist at [SoCyber](https://so-cyber.com). I studied English for around 10 years and got my C2 Certificate from Cambridge in 2020. I love coding and as a hobby I do sports or at least try to.
 
 ### Skills
 - Python 🐍
