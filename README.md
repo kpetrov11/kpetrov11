@@ -9,15 +9,16 @@
 
 Hey, I'm Kris. I am currently studying at a high school, specialized in system programming and working part-time as a Cyber Security Specialist at [SoCyber](https://so-cyber.com). I studied English for around 10 years and got my C2 Certificate from Cambridge in 2020. I love coding and as a hobby I do sports or at least try to.
 
-### Skills
+### Skills:
 - Python 🐍
 - C/C++ 💻 
 - Java ☕
 - SQL 💾 
 - HTML, Flask, CSS 🌎
 
-### Contact me
+### Contact me via:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/krispetrov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kris-petrov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kristiyanpetrow/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yanpetrow)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/krispetrov)  &nbsp;   &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kris-petrov/)  &nbsp;   &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kristiyanpetrow/)  &nbsp;   &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yanpetrow)  &nbsp;   &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:petrov.kris03@gmail.com)    
+
 
 ![Profile views](https://gpvc.arturio.dev/krispetrov)  
