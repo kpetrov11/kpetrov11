@@ -10,11 +10,12 @@
 Hey, I'm Kris. I am currently studying at a high school, specialized in system programming and working part-time as a Cyber Security Specialist at [SoCyber](https://so-cyber.com). I studied English for around 10 years and got my C2 Certificate from Cambridge in 2020. I love coding and as a hobby I do sports or at least try to.
 
 ### Skills:
-- Python 🐍
+- Python, Django 🐍
 - C/C++ 💻 
 - Java ☕
 - SQL 💾 
-- HTML, Flask, CSS 🌎
+- HTML, CSS 🌎
+- JavaScript, React 📝
 
 ### Contact me via:
 
