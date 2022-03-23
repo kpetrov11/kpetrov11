@@ -1,7 +1,7 @@
 ## Hi there 👋, Petrov, Kristiyan Petrov
 ### Working, Studying and Developing
 
-- 🔭 I’m working on a Chess WEB App with a Chess Engine [RUMEN](https://github.com/krispetrov/rumen) 
+- 🔭 I’m working on a Chess WEB App [RUMEN](https://github.com/krispetrov/rumen) 
 - 🌱 Everyday I keep on learning how to become a better version of myself 
 - 💬 Ask me about anything you're interested in 
 
